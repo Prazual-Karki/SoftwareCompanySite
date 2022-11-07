@@ -1,0 +1,56 @@
+#cap{
+  padding-bottom: 15%;
+  font-family: cursive;
+  font-size: 40px;
+}
+#navcolor{
+  color: white;
+  font-weight: bold;
+}
+#topicwho{
+  text-align: center;
+  background-image: url("softwarephotos/bgimgwhoweare.jpg");
+  color: white;
+  padding: 5% 20% 5% 20%;
+  margin: 3% 5% 2% 5%;
+  font-size: 25px;
+  font-family: cursive;
+}
+#topicwhat{
+  text-align: center;
+  background-image: url("softwarephotos/bgimgwhatwedo.jpg");
+  color: white;
+  padding: 5% 15% 5% 15%;
+  margin: 3% 0% 5% 0%;
+  font-size: 22px;
+  font-family: cursive;
+}
+#service{
+  text-align: center;
+  font-weight: bold;
+  font-family: cursive;
+}
+#topicjoin{
+  text-align: center;
+  background-image: url("softwarephotos/bgimgjoinourteam.jpg");
+  color: white;
+  padding: 5% 15% 5% 15%;
+  margin: 3% 0% 5% 0%;
+  font-size: 22px;
+  font-family: cursive;
+}
+#workers{
+  text-align: center;
+  font-size: 19px;
+  font-family: cursive;
+  margin-bottom: 5%;
+
+}
+#pkgroup{
+  font-size: 20px;
+  background-image: url("softwarephotos/bgimgjoinourteam.jpg");
+  color: white;
+  text-align: center;
+  padding-top: 5%;
+  padding-bottom: 5%;
+}
